@@ -1,0 +1,40 @@
+From your experiences (as per the proposals), we do gauge that most of you have a fair idea of ML, but have little to no experience in DL & NLP. So, we will utilize this first week to ramp up on those aspects & get started with the basics of Deep Learning & Natural Language Processing. We would also like you to get acquainted with Tensorflow and Pytorch. Resources for the same are mentioned below:
+
+ - Visual Interactive Guide: Basics of NNs
+https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+ - Basics of Neural Networks
+https://becominghuman.ai/basics-of-neural-network-bef2ba97d2cf
+ - Loss function overview and implementation
+https://analyticsindiamag.com/loss-functions-in-deep-learning-an-overview/
+ - Introduction to NLP
+https://builtin.com/data-science/introduction-nlp
+ - Natural Language Processing (NLP) with Python — Tutorial
+https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
+ - Why Tensorflow?
+https://www.youtube.com/watch?v=yjprpOoH5c8&ab_channel=TensorFlow
+ - Tensorflow quickstart
+https://www.tensorflow.org/tutorials/quickstart/beginner
+ - PyTorch 60 Minutes Blitz
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+Feel free to dive into any other resources & tutorials available.
+
+Side Resources (for brushing up on pre-requisite knowledge so that everyone comes on the same page) 
+
+Since some of you are not very well versed with Python, here are few links to learn some basic python libraries - 
+
+Numpy: https://realpython.com/numpy-tutorial/
+Pandas: https://realpython.com/pandas-python-explore-dataset/
+Matplotlib: https://realpython.com/python-matplotlib-guide/
+
+Feel free to check out the documentations of these libraries for any functionality that u want to achieve...they contain detailed description of functions, their parameters, example usage, etc.  Documentations may initially sound or look boring, but in d long run they gotta be your best friends!!   
+
+Also...do leverage https://stackoverflow.com/ for doubts that u may have. Coz almost any doubt that u have, someone else may have had it earlier & someone would have helped him/her out on this platform.
+
+For a quick primer on ML (with some hands on stuff as well, without delving very deep into the maths), here's a short crash course: https://www.youtube.com/watch?v=b2q5OFtxm6A
+It will give u a quick overview about types of ML problems & a plethora of ML algorithms.
+
+For those who don't know, Git and GitHub help you to collaborate on your code with your fellow teammates and keep a track of all the changes done in the files. To get a brief idea, you can watch this 4 min video: https://www.youtube.com/watch?v=uUuTYDg9XoI
+There will be a session organised by WnCC later on the same so we are not providing resources right now.
+
+Let us know if you want more resources on any topic (although we advise that you search them yourself first).
