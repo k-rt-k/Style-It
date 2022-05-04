@@ -1,0 +1,21 @@
+We hope that you all are doing well and enjoying the learning experience. Since we are done with the first week dedicated to resources on learning the basics of NLP and some deep learning frameworks, we are equipped to move on to the next week. This week we would be focusing on implementing various Neural network models which would set the stage for our subsequent tasks. We would also be using all the stuff that we learn for a basic sentiment analysis task.
+
+- Implementation of FeedForward Neural Network in Pytorch
+https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/?h=feed
+
+-Understanding RNNs and LSTMs
+https://builtin.com/data-science/recurrent-neural-networks-and-lstm
+
+-An excellent blog for understanding LSTMs
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+-Visual explanation of LSTMs and GRUs
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+-Implementation of models in Keras and tensorflow
+https://towardsdatascience.com/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405
+
+-Sentiment analysis using Pytorch
+https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/2_lstm.ipynb
+
+Please feel free to reach out in case of any queries!
