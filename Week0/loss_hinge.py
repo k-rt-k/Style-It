@@ -2,7 +2,7 @@
 from sklearn.datasets import make_circles
 from keras.models import Sequential
 from keras.layers import Dense
-from keras.optimizers import SGD
+from keras.optimizers import gradient_descent_v2 
 from matplotlib import pyplot
 # generate 2d classification dataset
 X, y = make_circles(n_samples=5000, noise=0.1, random_state=1)
@@ -14,7 +14,7 @@ trainy, testy = y[:train1], y[train1:]
 model = Sequential()
 model.add(Dense(50, input_dim=2, activation='relu', kernel_initializer='he_uniform'))
 model.add(Dense(1, activation='tanh'))
-opt = SGD(lr=0.01, momentum=0.9)
+opt = gradient_descent_v2.SGD(learning_rater=0.01, momentum=0.9)
 model.compile(loss='hinge', optimizer=opt, metrics=['accuracy'])
 # fit model
 history = model.fit(trainX, trainy, validation_data=(testX, testy), epochs=50, verbose=0)
